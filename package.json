@@ -1,0 +1,21 @@
+{
+  "name": "8b-theme",
+  "displayName": "8b-theme",
+  "description": "Retro Cyberpunk Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "8b",
+        "uiTheme": "vs-dark",
+        "path": "./themes/8b-color-theme.json"
+      }
+    ]
+  }
+}

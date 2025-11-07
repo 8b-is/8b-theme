@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "8b",
+        "label": "8b Cyberpunk",
         "uiTheme": "vs-dark",
         "path": "./themes/8b-color-theme.json"
+      },
+      {
+        "label": "8b CRT Terminal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/8b-crt-color-theme.json"
       }
     ]
   }
